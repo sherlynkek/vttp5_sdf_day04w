@@ -26,7 +26,7 @@ The server for the client to connect to is in the form of <'host>:<'port>.
 The client will request a cookie from the server, displays the cookie and closes the connection.
 
 ## Task 4
-The communication between the client and the server is hown in the following diagram
+The communication between the client and the server is shown in the following diagram
 
 ![image](https://github.com/user-attachments/assets/0c03958f-37a3-4a75-b587-11dba0c9c15c)
 
