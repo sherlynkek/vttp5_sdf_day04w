@@ -28,6 +28,7 @@ The client will request a cookie from the server, displays the cookie and closes
 ## Task 4
 The communication between the client and the server is hown in the following diagram
 
+![image](https://github.com/user-attachments/assets/0c03958f-37a3-4a75-b587-11dba0c9c15c)
 
 The above diagram shows the interaction between the client and the server. After the client connects to the server the client will send a *get-cookie* command to the server.
 
